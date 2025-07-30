@@ -7,6 +7,7 @@ import os
 from typing import TypedDict, Optional
 import json
 import re
+import ast
 
 load_dotenv()
 
@@ -153,6 +154,7 @@ Return only a JSON array like this and no extra text:
     locs_raw = llm.invoke(location_prompt).content.strip()
     # print("LLM location extraction raw output:", locs_raw)
     try:
+        print(locs_raw)
         locations = json.loads(locs_raw)
     except json.JSONDecodeError:
         print("Failed to parse locations as JSON. Trying to extract JSON array...")
@@ -160,6 +162,7 @@ Return only a JSON array like this and no extra text:
         if match:
             try:
                 locations = json.loads(match.group(0))
+                # locations = ast.literal_eval(match.group(0))
             except Exception as e:
                 print("Still failed to parse locations:", e)
                 locations = []
