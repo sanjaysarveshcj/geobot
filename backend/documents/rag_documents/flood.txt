@@ -1,0 +1,5904 @@
+Disaster: Flood (Riverine flood)
+Location: Barpeta
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bongaigaon
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cachar
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darrang
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhemaji
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhuburi
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dibrugarh
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Goalpara
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Golaghat
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jorhat
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kamrup
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimganj
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kokrajhar
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Marigaon
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nagaon
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nalbari
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sibsagar
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sonitpur
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tinsukia districts (Assam province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Araria
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Begusarai
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhagalpur
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darbhanga
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gopalganj
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Katihar
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khagaria
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kishanganj
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhepura
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhubani
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Muzaffarpur
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nal
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: a
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Pashchim Champaran
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Patna
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Pruba Champaran
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Purnia
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Saharsa
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Samastipur
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Saran
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sheikhpura
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sheohar
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sitamarhi
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Siwan
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Supaul districts (Bihar province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lahul
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Spiti district (Himachal Pradesh province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Balaghat district (Madhya Pradesh province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tehri Garhwal district (Uttarakh
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Adilabad
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khammam
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimnagar districts (Andhra Pradesh province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jalpaiguri
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kochbihar
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darjiling districts (West Bengal province)
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Meghalaya
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tripura
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Arunachal Pradesh
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gujarat
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kerala
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Manipur
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Maharashrta provinces
+Latitude: 23.91651512150974, Longitude: 91.22252489569443
+Year: 2002 Month: June
+Deaths: 549 | Injured: 1670
+Affected: 42000000 | Homeless: 2517501
+Total Affected: 42000000
+Magnitude: 276600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tehri Garhwal district (Uttaranchal province)
+Latitude: 24.171588281074484, Longitude: 90.6938716327913
+Year: 2002 Month: August
+Deaths: 33 | Injured: 50
+Affected: 60 | Homeless: 214
+Total Affected: 50
+Magnitude: 6770.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bihar
+Latitude: 24.171588281074484, Longitude: 90.6938716327913
+Year: 2002 Month: August
+Deaths: 33 | Injured: 50
+Affected: 60 | Homeless: 214
+Total Affected: 50
+Magnitude: 6770.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam
+Latitude: 24.171588281074484, Longitude: 90.6938716327913
+Year: 2002 Month: August
+Deaths: 33 | Injured: 50
+Affected: 60 | Homeless: 214
+Total Affected: 50
+Magnitude: 6770.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Manipur provinces
+Latitude: 24.171588281074484, Longitude: 90.6938716327913
+Year: 2002 Month: August
+Deaths: 33 | Injured: 50
+Affected: 60 | Homeless: 214
+Total Affected: 50
+Magnitude: 6770.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bharuch district (Gujarat province)
+Latitude: 23.96155573861761, Longitude: 91.09311006227612
+Year: 2002 Month: September
+Deaths: 22 | Injured: 104
+Affected: 5000 | Homeless: 4984
+Total Affected: 5000
+Magnitude: 79000.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jalgaon
+Latitude: 23.96155573861761, Longitude: 91.09311006227612
+Year: 2002 Month: September
+Deaths: 22 | Injured: 104
+Affected: 5000 | Homeless: 4984
+Total Affected: 5000
+Magnitude: 79000.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nasik districts (Maharashtra province)
+Latitude: 23.96155573861761, Longitude: 91.09311006227612
+Year: 2002 Month: September
+Deaths: 22 | Injured: 104
+Affected: 5000 | Homeless: 4984
+Total Affected: 5000
+Magnitude: 79000.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam
+Latitude: 22.041743722207997, Longitude: 87.1519635223771
+Year: 2003 Month: June
+Deaths: 142 | Injured: 6262
+Affected: 4550000 | Homeless: 2580509
+Total Affected: 4550000
+Magnitude: 6318.523135794752 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bihar
+Latitude: 22.041743722207997, Longitude: 87.1519635223771
+Year: 2003 Month: June
+Deaths: 142 | Injured: 6262
+Affected: 4550000 | Homeless: 2580509
+Total Affected: 4550000
+Magnitude: 6318.523135794752 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tripura
+Latitude: 22.041743722207997, Longitude: 87.1519635223771
+Year: 2003 Month: June
+Deaths: 142 | Injured: 6262
+Affected: 4550000 | Homeless: 2580509
+Total Affected: 4550000
+Magnitude: 6318.523135794752 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: West Bengal provinces
+Latitude: 22.041743722207997, Longitude: 87.1519635223771
+Year: 2003 Month: June
+Deaths: 142 | Injured: 6262
+Affected: 4550000 | Homeless: 2580509
+Total Affected: 4550000
+Magnitude: 6318.523135794752 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cuttack
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jagatsinghpur
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kendrapara
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jajpur
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Puri
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bolangir
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sonepur
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kalah
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: i
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rayagada
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gajapati
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Baragarh
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Koraput
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nayagarh
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ganjam
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Angul districts (Orissa province)
+Latitude: 23.91618067627944, Longitude: 91.20526114473344
+Year: 2003 Month: August
+Deaths: 67 | Injured: 4066
+Affected: 3000000 | Homeless: 1229747
+Total Affected: 3000000
+Magnitude: 117900.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Kullu district (Himachal Pradesh province)
+Latitude: 24.07890037536053, Longitude: 83.76030710038101
+Year: 2003 Month: July
+Deaths: 150 | Injured: 30
+Affected: 71 | Homeless: 209
+Total Affected: 30
+Magnitude: 7107.509087514393 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darbhanga
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhubani
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sitamarhi
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Banka
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhagalpur
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Muzaffarpur
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sheohar districts (Bihar province)
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: West Tripura
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: South Tripura districts (Tripura province)
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kamrup
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nalbari
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darrang
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sonitpur
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhemaji
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur districts (Assam province)
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gujarat
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jammu
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kashmir provinces
+Latitude: 23.812632143255, Longitude: 90.66660344897728
+Year: 2004 Month: June
+Deaths: 900 | Injured: 851
+Affected: 33000000 | Homeless: 3701535
+Total Affected: 33000000
+Magnitude: 44.83050072230923 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Goalpara district (Assam province)
+Latitude: 22.079030450393685, Longitude: 88.18080355433571
+Year: 2004 Month: October
+Deaths: 160 | Injured: 782
+Affected: 99999 | Homeless: 100000
+Total Affected: 100000
+Magnitude: 46303.21022857109 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Meghalaya
+Latitude: 22.079030450393685, Longitude: 88.18080355433571
+Year: 2004 Month: October
+Deaths: 160 | Injured: 782
+Affected: 99999 | Homeless: 100000
+Total Affected: 100000
+Magnitude: 46303.21022857109 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Arunachal Pradesh
+Latitude: 22.079030450393685, Longitude: 88.18080355433571
+Year: 2004 Month: October
+Deaths: 160 | Injured: 782
+Affected: 99999 | Homeless: 100000
+Total Affected: 100000
+Magnitude: 46303.21022857109 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: West Bengal provinces
+Latitude: 22.079030450393685, Longitude: 88.18080355433571
+Year: 2004 Month: October
+Deaths: 160 | Injured: 782
+Affected: 99999 | Homeless: 100000
+Total Affected: 100000
+Magnitude: 46303.21022857109 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttarakh
+Latitude: 23.510159453934243, Longitude: 88.57871670646075
+Year: 2004 Month: August
+Deaths: 210 | Injured: 508
+Affected: 100000 | Homeless: 99964
+Total Affected: 100000
+Magnitude: 24704.261382365014 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gujarat
+Latitude: 23.510159453934243, Longitude: 88.57871670646075
+Year: 2004 Month: August
+Deaths: 210 | Injured: 508
+Affected: 100000 | Homeless: 99964
+Total Affected: 100000
+Magnitude: 24704.261382365014 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Maharashtra
+Latitude: 23.510159453934243, Longitude: 88.57871670646075
+Year: 2004 Month: August
+Deaths: 210 | Injured: 508
+Affected: 100000 | Homeless: 99964
+Total Affected: 100000
+Magnitude: 24704.261382365014 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Punjab
+Latitude: 23.510159453934243, Longitude: 88.57871670646075
+Year: 2004 Month: August
+Deaths: 210 | Injured: 508
+Affected: 100000 | Homeless: 99964
+Total Affected: 100000
+Magnitude: 24704.261382365014 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Haryana
+Latitude: 23.510159453934243, Longitude: 88.57871670646075
+Year: 2004 Month: August
+Deaths: 210 | Injured: 508
+Affected: 100000 | Homeless: 99964
+Total Affected: 100000
+Magnitude: 24704.261382365014 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rajasthan provinces
+Latitude: 23.510159453934243, Longitude: 88.57871670646075
+Year: 2004 Month: August
+Deaths: 210 | Injured: 508
+Affected: 100000 | Homeless: 99964
+Total Affected: 100000
+Magnitude: 24704.261382365014 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Surat
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Valsad
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Navsari
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bharuch
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vadodara
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Surendranagar
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: The Dangs
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ahmedabad
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: An
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kheda
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Amreli
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhavnagar
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Junagadh
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rajkot
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Narmada
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jamnagar
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: G
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: hinagar
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sabarkantha districts (Gujarat province)
+Latitude: 23.62325800488461, Longitude: 89.77480512163908
+Year: 2005 Month: June
+Deaths: 239 | Injured: 557
+Affected: 405000 | Homeless: 312180
+Total Affected: 405000
+Magnitude: 69.85283461497946 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sangla
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kalpa
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Yangthang
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sumdo
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khab
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karcham
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Leo
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Akpa
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kharo villages (Kinnaur district
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh province)
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rampur Bushahr village (Shimla district
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh province)
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kullu
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bilaspur
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: M
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: i districts (Himachal Pradesh)
+Latitude: 23.95977108621429, Longitude: 91.17975580513102
+Year: 2005 Month: June
+Deaths: 6 | Injured: 276
+Affected: 5000 | Homeless: 4988
+Total Affected: 5000
+Magnitude: 6530.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Yingkiong village (Upper Siang (70051) district
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Arunachal Pradesh province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Seppa village (East Kameng (70040) district
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Arunachal Pradesh province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Anini village (70050 district
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Arunachal Pradesh province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dibrugarh
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sonitpur
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sibsagar
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhemaji
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tinsukia
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimganj
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jorhat
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Morigaon
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhuburi
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Goalpara
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Barpeta districts (Assam province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bahraich
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Shravasti
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: B
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: a
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ballia
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur Kheri
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kanpur
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Varanasi
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Mainpuri districts (Uttar Pradesh province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Haridwar
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttarkashi
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Naini Tal
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dehran Dun districts (Uttarakh
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Muzaffarpur
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darbhanga
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhubani districts (Bihar province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Birbhum district (West Bengal province)
+Latitude: 21.70815955355759, Longitude: 86.32587399864074
+Year: 2005 Month: July
+Deaths: 70 | Injured: 779
+Affected: 1904000 | Homeless: 4000
+Total Affected: 1908000
+Magnitude: 20877.87131940787 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ashoknagar
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Chhatarpur
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Damoh
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jabalpur
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Katni
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Narsinghpur
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Panna
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rewa
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sagar
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Satna districts (Madhya Pradesh province)
+Latitude: 23.84514905850488, Longitude: 91.14568856284056
+Year: 2005 Month: July
+Deaths: 62 | Injured: 64
+Affected: 49000 | Homeless: 48268
+Total Affected: 49000
+Magnitude: 55740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gujarat
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhya Pradesh
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Maharashtra
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Goa
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Orissa
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karnataka
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jammu
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kashmir provinces
+Latitude: 23.91450806645323, Longitude: 91.20915317747703
+Year: 2005 Month: July
+Deaths: 1200 | Injured: 55
+Affected: 20000000 | Homeless: 1862352
+Total Affected: 20000055
+Magnitude: 35550.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Azamgarh district (Uttar Pradesh province)
+Latitude: 23.932333028915817, Longitude: 91.20936988540409
+Year: 2005 Month: August
+Deaths: 27 | Injured: 2026
+Affected: 800000 | Homeless: 191115
+Total Affected: 800000
+Magnitude: 12680.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karnataka
+Latitude: 23.918192555853647, Longitude: 91.22401412344637
+Year: 2005 Month: July
+Deaths: 126 | Injured: 110
+Affected: 100000 | Homeless: 99999
+Total Affected: 100000
+Magnitude: 619200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Andhra Pradesh provinces
+Latitude: 23.918192555853647, Longitude: 91.22401412344637
+Year: 2005 Month: July
+Deaths: 126 | Injured: 110
+Affected: 100000 | Homeless: 99999
+Total Affected: 100000
+Magnitude: 619200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh
+Latitude: 23.96961543232304, Longitude: 91.14769117232824
+Year: 2005 Month: September
+Deaths: 23 | Injured: 4
+Affected: 2433 | Homeless: 2500
+Total Affected: 2504
+Magnitude: 308700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttar Pradesh
+Latitude: 23.96961543232304, Longitude: 91.14769117232824
+Year: 2005 Month: September
+Deaths: 23 | Injured: 4
+Affected: 2433 | Homeless: 2500
+Total Affected: 2504
+Magnitude: 308700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttarakh
+Latitude: 23.96961543232304, Longitude: 91.14769117232824
+Year: 2005 Month: September
+Deaths: 23 | Injured: 4
+Affected: 2433 | Homeless: 2500
+Total Affected: 2504
+Magnitude: 308700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: provinces
+Latitude: 23.96961543232304, Longitude: 91.14769117232824
+Year: 2005 Month: September
+Deaths: 23 | Injured: 4
+Affected: 2433 | Homeless: 2500
+Total Affected: 2504
+Magnitude: 308700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Raj N
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: gaon
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Durg districts (Chhattisgarh province)
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Baleshwar
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhadrak
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jajpur districts (Orissa province)
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bh
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: ara
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gondiya
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nagpur districts (Maharashtra province)
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Balaghat
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Katni
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jabalpur
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Seoni districts (Madhya Pradesh province)
+Latitude: 23.919410748983974, Longitude: 91.22666560208307
+Year: 2005 Month: September
+Deaths: 89 | Injured: 3924
+Affected: 550000 | Homeless: 372672
+Total Affected: 550000
+Magnitude: 312900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: East Midnapore
+Latitude: 23.90878887006629, Longitude: 91.1986623894876
+Year: 2005 Month: October
+Deaths: 19 | Injured: 412
+Affected: 2000000 | Homeless: 250000
+Total Affected: 2250000
+Magnitude: 29110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: South 24 Parganas
+Latitude: 23.90878887006629, Longitude: 91.1986623894876
+Year: 2005 Month: October
+Deaths: 19 | Injured: 412
+Affected: 2000000 | Homeless: 250000
+Total Affected: 2250000
+Magnitude: 29110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Barddhaman
+Latitude: 23.90878887006629, Longitude: 91.1986623894876
+Year: 2005 Month: October
+Deaths: 19 | Injured: 412
+Affected: 2000000 | Homeless: 250000
+Total Affected: 2250000
+Magnitude: 29110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nadia districts (West Bengal province)
+Latitude: 23.90878887006629, Longitude: 91.1986623894876
+Year: 2005 Month: October
+Deaths: 19 | Injured: 412
+Affected: 2000000 | Homeless: 250000
+Total Affected: 2250000
+Magnitude: 29110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Baleshwar district (Orissa province)
+Latitude: 23.90878887006629, Longitude: 91.1986623894876
+Year: 2005 Month: October
+Deaths: 19 | Injured: 412
+Affected: 2000000 | Homeless: 250000
+Total Affected: 2250000
+Magnitude: 29110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Surat
+Latitude: 30.85098239786264, Longitude: 78.0627747291694
+Year: 2005 Month: September
+Deaths: 15 | Injured: 22
+Affected: 153324 | Homeless: 4294
+Total Affected: 153324
+Magnitude: 53200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vadodara
+Latitude: 30.85098239786264, Longitude: 78.0627747291694
+Year: 2005 Month: September
+Deaths: 15 | Injured: 22
+Affected: 153324 | Homeless: 4294
+Total Affected: 153324
+Magnitude: 53200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhavnagar
+Latitude: 30.85098239786264, Longitude: 78.0627747291694
+Year: 2005 Month: September
+Deaths: 15 | Injured: 22
+Affected: 153324 | Homeless: 4294
+Total Affected: 153324
+Magnitude: 53200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Panch Mahals
+Latitude: 30.85098239786264, Longitude: 78.0627747291694
+Year: 2005 Month: September
+Deaths: 15 | Injured: 22
+Affected: 153324 | Homeless: 4294
+Total Affected: 153324
+Magnitude: 53200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Narmada districts (Gujarat province)
+Latitude: 30.85098239786264, Longitude: 78.0627747291694
+Year: 2005 Month: September
+Deaths: 15 | Injured: 22
+Affected: 153324 | Homeless: 4294
+Total Affected: 153324
+Magnitude: 53200.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Salem
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Namakkal
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karur
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Erode
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tiruchchirappalli
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vellore
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Perambalur
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nagapattinam
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kanniyakumari
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dharmapuri
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madurai
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Villupuram
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Chennai
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cuddalore districts (Tamil Nadu province)
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karaikal district (Puducherry province)
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bangalore Rural
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bangalore Urban
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Mysore districts (Karnataka province)
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nellore
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Chittoor
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vishakhapatnam
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Srikakulam
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vizianagaram
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cuddapah districts (Andhra Pradesh province)
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: West Bengal
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Orissa provinces
+Latitude: 23.920436642106264, Longitude: 91.1773252808576
+Year: 2005 Month: October
+Deaths: 162 | Injured: 985
+Affected: 2000000 | Homeless: 1996480
+Total Affected: 2000000
+Magnitude: 131300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh
+Latitude: 22.352495572814124, Longitude: 82.8918002823552
+Year: 2005 Month: July
+Deaths: 10 | Injured: 54
+Affected: 2000 | Homeless: 1999
+Total Affected: 2000
+Magnitude: 30241.667144454364 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Punjab
+Latitude: 22.352495572814124, Longitude: 82.8918002823552
+Year: 2005 Month: July
+Deaths: 10 | Injured: 54
+Affected: 2000 | Homeless: 1999
+Total Affected: 2000
+Magnitude: 30241.667144454364 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jammu
+Latitude: 22.352495572814124, Longitude: 82.8918002823552
+Year: 2005 Month: July
+Deaths: 10 | Injured: 54
+Affected: 2000 | Homeless: 1999
+Total Affected: 2000
+Magnitude: 30241.667144454364 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kashmir
+Latitude: 22.352495572814124, Longitude: 82.8918002823552
+Year: 2005 Month: July
+Deaths: 10 | Injured: 54
+Affected: 2000 | Homeless: 1999
+Total Affected: 2000
+Magnitude: 30241.667144454364 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Haryana provinces
+Latitude: 22.352495572814124, Longitude: 82.8918002823552
+Year: 2005 Month: July
+Deaths: 10 | Injured: 54
+Affected: 2000 | Homeless: 1999
+Total Affected: 2000
+Magnitude: 30241.667144454364 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam
+Latitude: 26.6, Longitude: 94.02
+Year: 2006 Month: May
+Deaths: 21 | Injured: 2098
+Affected: 504000 | Homeless: 453798
+Total Affected: 504000
+Magnitude: 47020.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tripura provinces
+Latitude: 26.6, Longitude: 94.02
+Year: 2006 Month: May
+Deaths: 21 | Injured: 2098
+Affected: 504000 | Homeless: 453798
+Total Affected: 504000
+Magnitude: 47020.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ballia
+Latitude: 25.62, Longitude: 83.67
+Year: 2006 Month: June
+Deaths: 130 | Injured: 621
+Affected: 300000 | Homeless: 249490
+Total Affected: 300000
+Magnitude: 13110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ch
+Latitude: 25.62, Longitude: 83.67
+Year: 2006 Month: June
+Deaths: 130 | Injured: 621
+Affected: 300000 | Homeless: 249490
+Total Affected: 300000
+Magnitude: 13110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: auli districts (Uttar Pradesh province)
+Latitude: 25.62, Longitude: 83.67
+Year: 2006 Month: June
+Deaths: 130 | Injured: 621
+Affected: 300000 | Homeless: 249490
+Total Affected: 300000
+Magnitude: 13110.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gajapati
+Latitude: 19.17, Longitude: 83.65
+Year: 2006 Month: July
+Deaths: 33 | Injured: 106
+Affected: 50000 | Homeless: 47509
+Total Affected: 50000
+Magnitude: 31360.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rayagada districts (Orissa province)
+Latitude: 19.17, Longitude: 83.65
+Year: 2006 Month: July
+Deaths: 33 | Injured: 106
+Affected: 50000 | Homeless: 47509
+Total Affected: 50000
+Magnitude: 31360.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jammu
+Latitude: 34.61, Longitude: 73.2
+Year: 2006 Month: July
+Deaths: 15 | Injured: 564
+Affected: 800 | Homeless: 506
+Total Affected: 800
+Magnitude: 34655.388467353456 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kashmir provinces
+Latitude: 34.61, Longitude: 73.2
+Year: 2006 Month: July
+Deaths: 15 | Injured: 564
+Affected: 800 | Homeless: 506
+Total Affected: 800
+Magnitude: 34655.388467353456 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Andhra Pradesh
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gujarat
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Maharashtra
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Chhattisgarh
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rajasthan
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhya Pradesh
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Orissa
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karnataka provinces
+Latitude: 20.19, Longitude: 73.82
+Year: 2006 Month: July
+Deaths: 350 | Injured: 65
+Affected: 4087755 | Homeless: 4000000
+Total Affected: 4000065
+Magnitude: 165400.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Jammu
+Latitude: 32.89, Longitude: 73.88
+Year: 2006 Month: August
+Deaths: 19 | Injured: 155
+Affected: 15000 | Homeless: 11146
+Total Affected: 15000
+Magnitude: 33962.38834107414 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Kashmir provinces
+Latitude: 32.89, Longitude: 73.88
+Year: 2006 Month: August
+Deaths: 19 | Injured: 155
+Affected: 15000 | Homeless: 11146
+Total Affected: 15000
+Magnitude: 33962.38834107414 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Balrampur
+Latitude: 27.59, Longitude: 81.52
+Year: 2006 Month: August
+Deaths: 42 | Injured: 1317
+Affected: 100000 | Homeless: 99824
+Total Affected: 100000
+Magnitude: 32700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bahraich
+Latitude: 27.59, Longitude: 81.52
+Year: 2006 Month: August
+Deaths: 42 | Injured: 1317
+Affected: 100000 | Homeless: 99824
+Total Affected: 100000
+Magnitude: 32700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur Kheri
+Latitude: 27.59, Longitude: 81.52
+Year: 2006 Month: August
+Deaths: 42 | Injured: 1317
+Affected: 100000 | Homeless: 99824
+Total Affected: 100000
+Magnitude: 32700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Shravasti
+Latitude: 27.59, Longitude: 81.52
+Year: 2006 Month: August
+Deaths: 42 | Injured: 1317
+Affected: 100000 | Homeless: 99824
+Total Affected: 100000
+Magnitude: 32700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gonda
+Latitude: 27.59, Longitude: 81.52
+Year: 2006 Month: August
+Deaths: 42 | Injured: 1317
+Affected: 100000 | Homeless: 99824
+Total Affected: 100000
+Magnitude: 32700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bara Banki districts (Uttar Pradesh province)
+Latitude: 27.59, Longitude: 81.52
+Year: 2006 Month: August
+Deaths: 42 | Injured: 1317
+Affected: 100000 | Homeless: 99824
+Total Affected: 100000
+Magnitude: 32700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tamil Nadu
+Latitude: 14.13, Longitude: 79.93
+Year: 2006 Month: October
+Deaths: 47 | Injured: 1651
+Affected: 225000 | Homeless: 167812
+Total Affected: 225000
+Magnitude: 40090.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Andhra Pradesh provinces
+Latitude: 14.13, Longitude: 79.93
+Year: 2006 Month: October
+Deaths: 47 | Injured: 1651
+Affected: 225000 | Homeless: 167812
+Total Affected: 225000
+Magnitude: 40090.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhemaji
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cachar
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimganj
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Hailak
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: i
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darrang
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dibrugarh districts (Assam province)
+Latitude: 26.26, Longitude: 94.02
+Year: 2007 Month: June
+Deaths: 15 | Injured: 1471
+Affected: 200000 | Homeless: 156552
+Total Affected: 200000
+Magnitude: 74890.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Junagadh district (Daman
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Diu province)
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Amreli
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhavnagar
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jamnagar
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Junagadh
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Porb
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: ar
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rajkot
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Surendranagar districts (Gujarat province)
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rajasthan
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhya Pradesh
+Latitude: 22.02, Longitude: 72.25
+Year: 2007 Month: July
+Deaths: 225 | Injured: 212
+Affected: 63000 | Homeless: 64962
+Total Affected: 63000
+Magnitude: 61700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Raipur
+Latitude: 20.05, Longitude: 81.86
+Year: 2007 Month: June
+Deaths: 29 | Injured: 60
+Affected: 50000 | Homeless: 49948
+Total Affected: 50000
+Magnitude: 74000.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bilaspur
+Latitude: 20.05, Longitude: 81.86
+Year: 2007 Month: June
+Deaths: 29 | Injured: 60
+Affected: 50000 | Homeless: 49948
+Total Affected: 50000
+Magnitude: 74000.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Mahasamund
+Latitude: 20.05, Longitude: 81.86
+Year: 2007 Month: June
+Deaths: 29 | Injured: 60
+Affected: 50000 | Homeless: 49948
+Total Affected: 50000
+Magnitude: 74000.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Durg districts (Chhattisgarh province)
+Latitude: 20.05, Longitude: 81.86
+Year: 2007 Month: June
+Deaths: 29 | Injured: 60
+Affected: 50000 | Homeless: 49948
+Total Affected: 50000
+Magnitude: 74000.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Kurnool
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Mahbubnagar
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Guntur
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Prakasam
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: East Godavari
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: West Godavari
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Anantapur
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Cuddapah districts (Andhra Pradesh province)
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Thrissur district (Kerala province)
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Belgaum
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Bijapur
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Bagalkot
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Kodagu
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Hassan
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Mysore districts (Karnataka province)
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Mumbai City
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Pune districts (Maharashtra province)
+Latitude: 14.94, Longitude: 78.16
+Year: 2007 Month: June
+Deaths: 127 | Injured: 151
+Affected: 200000 | Homeless: 119897
+Total Affected: 200000
+Magnitude: 449300.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bihar
+Latitude: 22.63, Longitude: 88.49
+Year: 2007 Month: July
+Deaths: 1103 | Injured: 8431
+Affected: 18700000 | Homeless: 1515674
+Total Affected: 18700000
+Magnitude: 483900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttar Pradesh
+Latitude: 22.63, Longitude: 88.49
+Year: 2007 Month: July
+Deaths: 1103 | Injured: 8431
+Affected: 18700000 | Homeless: 1515674
+Total Affected: 18700000
+Magnitude: 483900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam
+Latitude: 22.63, Longitude: 88.49
+Year: 2007 Month: July
+Deaths: 1103 | Injured: 8431
+Affected: 18700000 | Homeless: 1515674
+Total Affected: 18700000
+Magnitude: 483900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Orissa
+Latitude: 22.63, Longitude: 88.49
+Year: 2007 Month: July
+Deaths: 1103 | Injured: 8431
+Affected: 18700000 | Homeless: 1515674
+Total Affected: 18700000
+Magnitude: 483900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: West Bengal provinces
+Latitude: 22.63, Longitude: 88.49
+Year: 2007 Month: July
+Deaths: 1103 | Injured: 8431
+Affected: 18700000 | Homeless: 1515674
+Total Affected: 18700000
+Magnitude: 483900.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh province
+Latitude: 31.24, Longitude: 76.53
+Year: 2007 Month: August
+Deaths: 76 | Injured: 64
+Affected: 15000 | Homeless: 11232
+Total Affected: 15000
+Magnitude: 191400.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Baleshwar
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Kendrapara
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Bhadrak
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Jagatsinghpur
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Jajpur
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Mayurbhanj
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Khordha
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Cuttack
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Puri
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: K
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: hamal districts (Orissa province)
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Kolkata
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: South 24 Parganas
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: East Midnapore
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: West Midnapore
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Coastal flood)
+Location: Hughli districts (West Bengal province)
+Latitude: 20.91, Longitude: 86.4
+Year: 2007 Month: September
+Deaths: 80 | Injured: 30563
+Affected: 7200000 | Homeless: 1466964
+Total Affected: 7200000
+Magnitude: 72010.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kurnool
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cuddapah
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Warangal
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nalgonda
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimnagar
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Mahbubnagar
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Anantapur
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nellore
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Krishna districts (Andhra Pradesh province)
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gadag district (Karnataka province)
+Latitude: 15.71, Longitude: 79.88
+Year: 2007 Month: September
+Deaths: 94 | Injured: 43
+Affected: 20000 | Homeless: 5740
+Total Affected: 20000
+Magnitude: 90280.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Andhra Pradesh
+Latitude: 12.73, Longitude: 79.7
+Year: 2007 Month: October
+Deaths: 29 | Injured: 60
+Affected: 50000 | Homeless: 49948
+Total Affected: 50000
+Magnitude: 76740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Tamil Nadu province
+Latitude: 12.73, Longitude: 79.7
+Year: 2007 Month: October
+Deaths: 29 | Injured: 60
+Affected: 50000 | Homeless: 49948
+Total Affected: 50000
+Magnitude: 76740.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cuttack
+Latitude: 20.45, Longitude: 86.2
+Year: 2007 Month: August
+Deaths: 15 | Injured: 1838
+Affected: 500000 | Homeless: 498468
+Total Affected: 500000
+Magnitude: 15360.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Puri
+Latitude: 20.45, Longitude: 86.2
+Year: 2007 Month: August
+Deaths: 15 | Injured: 1838
+Affected: 500000 | Homeless: 498468
+Total Affected: 500000
+Magnitude: 15360.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khordha
+Latitude: 20.45, Longitude: 86.2
+Year: 2007 Month: August
+Deaths: 15 | Injured: 1838
+Affected: 500000 | Homeless: 498468
+Total Affected: 500000
+Magnitude: 15360.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jajpur
+Latitude: 20.45, Longitude: 86.2
+Year: 2007 Month: August
+Deaths: 15 | Injured: 1838
+Affected: 500000 | Homeless: 498468
+Total Affected: 500000
+Magnitude: 15360.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jagatsinghpur districts (Orissa province)
+Latitude: 20.45, Longitude: 86.2
+Year: 2007 Month: August
+Deaths: 15 | Injured: 1838
+Affected: 500000 | Homeless: 498468
+Total Affected: 500000
+Magnitude: 15360.0 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Tamil Nadu
+Latitude: 10.76, Longitude: 78.72
+Year: 2008 Month: March
+Deaths: 37 | Injured: 227
+Affected: 10278 | Homeless: 8996
+Total Affected: 10278
+Magnitude: 144300.0 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Karnataka provinces
+Latitude: 10.76, Longitude: 78.72
+Year: 2008 Month: March
+Deaths: 37 | Injured: 227
+Affected: 10278 | Homeless: 8996
+Total Affected: 10278
+Magnitude: 144300.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Lakhimpu
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Dhemaji
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Sonitpur districts (Assam province)
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: West Bengal
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Orissa
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Bihar
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Gujarat
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Goa
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Haryana
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Kerala
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Karnataka
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Maharastra
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Madhya Pradesh
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Punjab
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Rajasthan
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Uttar Pradesh
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Tamil Nadu
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Arunachal Pradesh
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Uttarakh
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Jharkh
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: provinces
+Latitude: 25.18, Longitude: 91.54
+Year: 2008 Month: June
+Deaths: 1063 | Injured: 27489
+Affected: 7900000 | Homeless: 1282947
+Total Affected: 7900000
+Magnitude: 350600.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khammam
+Latitude: 16.65, Longitude: 81.38
+Year: 2008 Month: September
+Deaths: 74 | Injured: 169
+Affected: 107312 | Homeless: 182929
+Total Affected: 107288
+Magnitude: 75490.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: West Godavari
+Latitude: 16.65, Longitude: 81.38
+Year: 2008 Month: September
+Deaths: 74 | Injured: 169
+Affected: 107312 | Homeless: 182929
+Total Affected: 107288
+Magnitude: 75490.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Krishna
+Latitude: 16.65, Longitude: 81.38
+Year: 2008 Month: September
+Deaths: 74 | Injured: 169
+Affected: 107312 | Homeless: 182929
+Total Affected: 107288
+Magnitude: 75490.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Guntur districts (Andhra Pradesh province)
+Latitude: 16.65, Longitude: 81.38
+Year: 2008 Month: September
+Deaths: 74 | Injured: 169
+Affected: 107312 | Homeless: 182929
+Total Affected: 107288
+Magnitude: 75490.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Muzaffarpur
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Supaul
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Patna
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Katihar
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nal
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: a
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Araria
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Pashchim Champaran
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sheikhpura
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Saharsa
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Purnia
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Saran
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Begusarai
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhagalpur
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhepura
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vaishali
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khagaria districts (Bihar province)
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam province
+Latitude: 22.044, Longitude: 94.55
+Year: 2008 Month: August
+Deaths: 47 | Injured: 3889
+Affected: 2600000 | Homeless: 1820044
+Total Affected: 2600000
+Magnitude: 80590.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Belgaum
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gulbarga
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bijapur
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Raichur
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dharwad
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bagalkot
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bellary
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Koppal
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Haveri
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bidar
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gadag
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Davanegere
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttar Kann
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dakshin Kannad districts (Karnataka province)
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kurnool
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Mahbubnagar
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimnagar
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Anantapur
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Krishna
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cuddapah
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Guntur
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khammam
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nalgonda districts (Andhra Pradesh province)
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Maharashtra province
+Latitude: 15.71, Longitude: 78.23
+Year: 2009 Month: September
+Deaths: 355 | Injured: 31830
+Affected: 4100000 | Homeless: 1887203
+Total Affected: 4100000
+Magnitude: 309700.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur district (Assam province)
+Latitude: 26.235, Longitude: 92.25
+Year: 2010 Month: September
+Deaths: 17 | Injured: 46
+Affected: 30000 | Homeless: 18169
+Total Affected: 30000
+Magnitude: 12555.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Punjab
+Latitude: 25.965, Longitude: 76.05
+Year: 2010 Month: September
+Deaths: 17 | Injured: 172
+Affected: 12500 | Homeless: 8757
+Total Affected: 12500
+Magnitude: 10843.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Haryana
+Latitude: 25.965, Longitude: 76.05
+Year: 2010 Month: September
+Deaths: 17 | Injured: 172
+Affected: 12500 | Homeless: 8757
+Total Affected: 12500
+Magnitude: 10843.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttar Pradesh provinces
+Latitude: 25.965, Longitude: 76.05
+Year: 2010 Month: September
+Deaths: 17 | Injured: 172
+Affected: 12500 | Homeless: 8757
+Total Affected: 12500
+Magnitude: 10843.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Barpeta
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bongaigaon
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darrang
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhemaji
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhuburi
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Golaghat
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jorhat
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karbi Anglong
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sibsagar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nagaon
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sonitpur districts
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: (Assam province)
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Begusarai
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhagalpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhojpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Buxar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gopalganj
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Katihar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Khagaria
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kishanganj
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhisarai
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhubani
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Madhepura
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Muzaffarpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Patna
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Purnia
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Samastipur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Saran
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Saharsa
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sitamarhi
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Supaul
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Vaishali
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Pashchim Champaran districts (Bihar province)
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Azamgarh
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Aligarh
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ambedkar Nagar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Badaun
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ballia
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bara Banki
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bahraich
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bareilly
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bijnor
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Faizabad
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Farrukhabad
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Ghazipur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gonda
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gorakhpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Hardoi
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jyotiba Phule Nagar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kannauj
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kanpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kushinagar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur Kheri
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Meerut
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Muzaffarnagar
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Moradabad
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Pilibhit
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rampur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Shahjahanpur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sitapur
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Unnao districts (Uttar Pradesh province)
+Latitude: 26.376, Longitude: 86.24
+Year: 2011 Month: August
+Deaths: 204 | Injured: 47532
+Affected: 5549080 | Homeless: 2312097
+Total Affected: 5549080
+Magnitude: 40941.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Anjaw (70044)
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lohit
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Changlang
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: 70045
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: 70050
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lower Dibang Valley
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: East Siang
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Upper Siang (70051) districts (Arunachal Pradesh province)
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam province
+Latitude: 26.566, Longitude: 92.44
+Year: 2012 Month: June
+Deaths: 120 | Injured: 1251
+Affected: 2200000 | Homeless: 1285679
+Total Affected: 2200000
+Magnitude: 254935.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttarakh
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttar Pradesh
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bihar
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karnataka
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kerala
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gujarat
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: West Bengal provinces
+Latitude: 32.714, Longitude: 76.61
+Year: 2013 Month: June
+Deaths: 6054 | Injured: 4473
+Affected: 500000 | Homeless: 439090
+Total Affected: 504473
+Magnitude: 131743.41 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sultanpur
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sitapur
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Rae Bareli
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bara Banki
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Faizabad
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gorakhpur
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Basti
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kushinagar
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bahraich
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gonda
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Shravasti districts (Uttar Pradesh province)
+Latitude: 23.236506395303635, Longitude: 87.86410189401842
+Year: 2013 Month: July
+Deaths: 174 | Injured: 386
+Affected: 500000 | Homeless: 499125
+Total Affected: 500000
+Magnitude: 36.9037431601785 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhopal
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Hoshangabad
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Seoni
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Narsinghpur
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jabalpur districts (Madhya Pradesh province)
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttar Pradesh
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam provinces
+Latitude: 20.88948700862045, Longitude: 85.69474626603443
+Year: 2013 Month: August
+Deaths: 73 | Injured: 239
+Affected: 40000 | Homeless: 39888
+Total Affected: 40000
+Magnitude: 31317.19086397727 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam province
+Latitude: 23.930940576050183, Longitude: 91.13326828894851
+Year: 2014 Month: June
+Deaths: 27 | Injured: 48
+Affected: 18500 | Homeless: 6314
+Total Affected: 18500
+Magnitude: 49220.0 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttarakh
+Latitude: 34.205309424451094, Longitude: 72.14640087484224
+Year: 2014 Month: July
+Deaths: 26 | Injured: 30
+Affected: 330000000 | Homeless: 17093
+Total Affected: 330000000
+Magnitude: 11900.645218057503 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Himachal Pradesh provinces
+Latitude: 34.205309424451094, Longitude: 72.14640087484224
+Year: 2014 Month: July
+Deaths: 26 | Injured: 30
+Affected: 330000000 | Homeless: 17093
+Total Affected: 330000000
+Magnitude: 11900.645218057503 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Orissa province
+Latitude: 21.27478135710334, Longitude: 82.17663656046757
+Year: 2014 Month: August
+Deaths: 35 | Injured: 176
+Affected: 179000 | Homeless: 139667
+Total Affected: 179000
+Magnitude: 48272.26602796458 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Shravasti
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Balrampur
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sitapur
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur Kheri
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Gonda
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bara Banki
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Faizabad
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Azamgarh districts (Uttar Pradesh province)
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Uttarakh
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bihar
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Assam provinces
+Latitude: 21.93981306735612, Longitude: 86.80455512282154
+Year: 2014 Month: August
+Deaths: 94 | Injured: 3743
+Affected: 500000 | Homeless: 499733
+Total Affected: 500000
+Magnitude: 5459.243790622155 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Chadoora village (72811 district
+Latitude: 33.1767, Longitude: 76.41
+Year: 2015 Month: March
+Deaths: 44 | Injured: 25
+Affected: 1966 | Homeless: 2097
+Total Affected: 2122
+Magnitude: 70287.98 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Jammu
+Latitude: 33.1767, Longitude: 76.41
+Year: 2015 Month: March
+Deaths: 44 | Injured: 25
+Affected: 1966 | Homeless: 2097
+Total Affected: 2122
+Magnitude: 70287.98 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Kashmir province)
+Latitude: 33.1767, Longitude: 76.41
+Year: 2015 Month: March
+Deaths: 44 | Injured: 25
+Affected: 1966 | Homeless: 2097
+Total Affected: 2122
+Magnitude: 70287.98 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Assam province
+Latitude: 26.8946, Longitude: 93.75
+Year: 2015 Month: August
+Deaths: 5 | Injured: 51
+Affected: 18000 | Homeless: 7116
+Total Affected: 18000
+Magnitude: 69190.14 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Arunachal Pradesh
+Latitude: 27.464, Longitude: 95.607
+Year: 2016 Month: April
+Deaths: 18 | Injured: 255
+Affected: 100000 | Homeless: 99941
+Total Affected: 100000
+Magnitude: 70517.68 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Assam
+Latitude: 27.464, Longitude: 95.607
+Year: 2016 Month: April
+Deaths: 18 | Injured: 255
+Affected: 100000 | Homeless: 99941
+Total Affected: 100000
+Magnitude: 70517.68 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Nagal
+Latitude: 27.464, Longitude: 95.607
+Year: 2016 Month: April
+Deaths: 18 | Injured: 255
+Affected: 100000 | Homeless: 99941
+Total Affected: 100000
+Magnitude: 70517.68 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: provinces
+Latitude: 27.464, Longitude: 95.607
+Year: 2016 Month: April
+Deaths: 18 | Injured: 255
+Affected: 100000 | Homeless: 99941
+Total Affected: 100000
+Magnitude: 70517.68 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Chamoli
+Latitude: 27.068, Longitude: 93.95
+Year: 2016 Month: June
+Deaths: 61 | Injured: 276
+Affected: 76851 | Homeless: 6255
+Total Affected: 37583
+Magnitude: 135742.3 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Pithoragahr districts (Uttarakh
+Latitude: 27.068, Longitude: 93.95
+Year: 2016 Month: June
+Deaths: 61 | Injured: 276
+Affected: 76851 | Homeless: 6255
+Total Affected: 37583
+Magnitude: 135742.3 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: province)
+Latitude: 27.068, Longitude: 93.95
+Year: 2016 Month: June
+Deaths: 61 | Injured: 276
+Affected: 76851 | Homeless: 6255
+Total Affected: 37583
+Magnitude: 135742.3 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Assam
+Latitude: 27.068, Longitude: 93.95
+Year: 2016 Month: June
+Deaths: 61 | Injured: 276
+Affected: 76851 | Homeless: 6255
+Total Affected: 37583
+Magnitude: 135742.3 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Arunachal Pradesh provinces
+Latitude: 27.068, Longitude: 93.95
+Year: 2016 Month: June
+Deaths: 61 | Injured: 276
+Affected: 76851 | Homeless: 6255
+Total Affected: 37583
+Magnitude: 135742.3 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Lakhimpur
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Golaghat
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Jorhat
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Barpeta
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Bongaigaon
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Goalpara
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Dhubri
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Marigaon
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Darrang
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flash flood)
+Location: Nalbari districts (Assam province)
+Latitude: 21.51239548279065, Longitude: 84.83077929828593
+Year: 2016 Month: July
+Deaths: 50 | Injured: 503
+Affected: 2000010 | Homeless: 2000000
+Total Affected: 2000000
+Magnitude: 48626.06380732276 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Maharashtra (Nashik
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Raigad (Mahad)
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Thane (Bhiw
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: i)
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Ratnagiri
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Pune
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Satara
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Kolhapur)
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Gujarat (Valsad
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Chhota Udepur (Vadodara)
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Navsari
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Surat)
+Latitude: 20.34813653581697, Longitude: 81.55689157371322
+Year: 2016 Month: August
+Deaths: 37 | Injured: 21
+Affected: 3000 | Homeless: 2893
+Total Affected: 3000
+Magnitude: 65331.32099803236 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Lakhimpur
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bangaigaon
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Jorhat
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Golaghat
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Cachar
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhemjai
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Biswanath
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karimganj
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Barpeta
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Karbi Anglong
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sonitpur
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Darrang
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Hojai (Sub Division)
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Bhuragaon (Sub Division)
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Majuli
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nagaon
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Nalbari
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Sivasagar
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Morigaon
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Chirang
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dibrugarh
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Dhubri
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Kokrajhar
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: South Salmara
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Charaideo
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Riverine flood)
+Location: Goalpara districts (Assam)
+Latitude: 21.357694421093235, Longitude: 85.97612697078931
+Year: 2017 Month: June
+Deaths: 75 | Injured: 1121
+Affected: 1735000 | Homeless: 1026894
+Total Affected: 1735000
+Magnitude: 29990.36096259722 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Uttar Pradesh (Siddharthnagar
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Balarampur
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Bahraich
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Shravasti
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Maharajganj
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Barabanki
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Lakhimpur Kheri
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Gorakhpur
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Muzaffarnagar
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Gonda
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Basti
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Mirzapur
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Khiri
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Deoria
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Sitapur
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Bijnore
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Faizabad
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Pilibhit
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Farrukhabad
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Mau
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Kushinagar
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Badaun
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Ambedkar nagar
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Azamgarh
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Santkabir Nagar
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Ghazipur
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Balia)
+Latitude: 21.83812506584597, Longitude: 86.52098342635573
+Year: 2017 Month: August
+Deaths: 101 | Injured: 658
+Affected: 2700000 | Homeless: 1607885
+Total Affected: 2700000
+Magnitude: 5291.001273835346 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Lakhimpur
+Latitude: 23.4658956987093, Longitude: 85.02408974795874
+Year: 2020 Month: May
+Deaths: 1 | Injured: 2
+Affected: 30000 | Homeless: 18241
+Total Affected: 30002
+Magnitude: 15818.862929280183 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Sontipur
+Latitude: 23.4658956987093, Longitude: 85.02408974795874
+Year: 2020 Month: May
+Deaths: 1 | Injured: 2
+Affected: 30000 | Homeless: 18241
+Total Affected: 30002
+Magnitude: 15818.862929280183 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Darrang
+Latitude: 23.4658956987093, Longitude: 85.02408974795874
+Year: 2020 Month: May
+Deaths: 1 | Injured: 2
+Affected: 30000 | Homeless: 18241
+Total Affected: 30002
+Magnitude: 15818.862929280183 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Goalpara (Assam state)
+Latitude: 23.4658956987093, Longitude: 85.02408974795874
+Year: 2020 Month: May
+Deaths: 1 | Injured: 2
+Affected: 30000 | Homeless: 18241
+Total Affected: 30002
+Magnitude: 15818.862929280183 Km2
+-----------------------------
+Disaster: Flood (Flood (General))
+Location: Sikkim state
+Latitude: 23.4658956987093, Longitude: 85.02408974795874
+Year: 2020 Month: May
+Deaths: 1 | Injured: 2
+Affected: 30000 | Homeless: 18241
+Total Affected: 30002
+Magnitude: 15818.862929280183 Km2
+-----------------------------

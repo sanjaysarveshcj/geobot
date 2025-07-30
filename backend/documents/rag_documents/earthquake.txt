@@ -1,0 +1,738 @@
+Disaster: Earthquake (Ground movement)
+Location: Ahmadabad
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Amreli
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: An
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Banas Kantha
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Bharuch
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Bhavnagar
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Dahdod
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: G
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: hinagar
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Jamnagar
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Junagadh
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Kachchh
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Kheda
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Mahesana
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Navsari
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Patan
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Porb
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: ar
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Rajkot
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Sabar Kantha
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Surat
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Surendranagar
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Vadodara districts (Gurajat province)
+Latitude: 23.419, Longitude: 70.232
+Year: 2001 Month: January
+Deaths: 20005 | Injured: 166812
+Affected: 4365000 | Homeless: 1790000
+Total Affected: 6321812
+Magnitude: 7.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Andaman Isl
+Latitude: 13.036, Longitude: 93.068
+Year: 2002 Month: September
+Deaths: 2 | Injured: 148
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 6.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: s district (Andaman
+Latitude: 13.036, Longitude: 93.068
+Year: 2002 Month: September
+Deaths: 2 | Injured: 148
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 6.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Nicobar province)
+Latitude: 13.036, Longitude: 93.068
+Year: 2002 Month: September
+Deaths: 2 | Injured: 148
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 6.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Kancheepuram
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Villupuram
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Nagapattinam
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Thoothukudi
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Tirunelveli Kattabo
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Kanniyakumari
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Chennai
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Thiruvallur
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Cuddalore
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Pudukkottai
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Ramanathapuram
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Sivaganga
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Thanjavur districts (Tamil Nadu province)
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Vishakhapatnam
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: East Godavari
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: West Godavari
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Krishna
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Guntur
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Prakasam
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Nellore districts (Andhra Pradesh province)
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Kollam
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Alappuzha
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Ernakulam districts (Kerala province)
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Puducherry
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Karaikal district (Puducherry province)
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Andaman
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Tsunami)
+Location: Nicobar province
+Latitude: 3.295, Longitude: 95.982
+Year: 2004 Month: December
+Deaths: 16389 | Injured: 6913
+Affected: 647599 | Homeless: 220555
+Total Affected: 654512
+Magnitude: 9.1 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Administrative unit not available districts (Jammu
+Latitude: 34.539, Longitude: 73.588
+Year: 2005 Month: October
+Deaths: 1309 | Injured: 6622
+Affected: 156208 | Homeless: 150000
+Total Affected: 156622
+Magnitude: 7.6 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Kashmir province)
+Latitude: 34.539, Longitude: 73.588
+Year: 2005 Month: October
+Deaths: 1309 | Injured: 6622
+Affected: 156208 | Homeless: 150000
+Total Affected: 156622
+Magnitude: 7.6 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Sikkim
+Latitude: 27.73, Longitude: 88.155
+Year: 2011 Month: September
+Deaths: 112 | Injured: 200
+Affected: 500000 | Homeless: 75000
+Total Affected: 575200
+Magnitude: 6.9 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: West Bengal
+Latitude: 27.73, Longitude: 88.155
+Year: 2011 Month: September
+Deaths: 112 | Injured: 200
+Affected: 500000 | Homeless: 75000
+Total Affected: 575200
+Magnitude: 6.9 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Bihar
+Latitude: 27.73, Longitude: 88.155
+Year: 2011 Month: September
+Deaths: 112 | Injured: 200
+Affected: 500000 | Homeless: 75000
+Total Affected: 575200
+Magnitude: 6.9 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Assam
+Latitude: 27.73, Longitude: 88.155
+Year: 2011 Month: September
+Deaths: 112 | Injured: 200
+Affected: 500000 | Homeless: 75000
+Total Affected: 575200
+Magnitude: 6.9 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Meghalaya provinces
+Latitude: 27.73, Longitude: 88.155
+Year: 2011 Month: September
+Deaths: 112 | Injured: 200
+Affected: 500000 | Homeless: 75000
+Total Affected: 575200
+Magnitude: 6.9 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Administrive unit not available district (Jammu
+Latitude: 33.061, Longitude: 75.863
+Year: 2013 Month: May
+Deaths: 3 | Injured: 70
+Affected: 59280 | Homeless: 59800
+Total Affected: 59350
+Magnitude: 5.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Kashmir province)
+Latitude: 33.061, Longitude: 75.863
+Year: 2013 Month: May
+Deaths: 3 | Injured: 70
+Affected: 59280 | Homeless: 59800
+Total Affected: 59350
+Magnitude: 5.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Bihar
+Latitude: 28.2305, Longitude: 84.7314
+Year: 2015 Month: April
+Deaths: 78 | Injured: 560
+Affected: 541 | Homeless: 364
+Total Affected: 560
+Magnitude: 7.8 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Uttar Pradesh
+Latitude: 28.2305, Longitude: 84.7314
+Year: 2015 Month: April
+Deaths: 78 | Injured: 560
+Affected: 541 | Homeless: 364
+Total Affected: 560
+Magnitude: 7.8 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: West Bengal
+Latitude: 28.2305, Longitude: 84.7314
+Year: 2015 Month: April
+Deaths: 78 | Injured: 560
+Affected: 541 | Homeless: 364
+Total Affected: 560
+Magnitude: 7.8 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Sikkim provinces
+Latitude: 28.2305, Longitude: 84.7314
+Year: 2015 Month: April
+Deaths: 78 | Injured: 560
+Affected: 541 | Homeless: 364
+Total Affected: 560
+Magnitude: 7.8 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Bihar province
+Latitude: 27.8087, Longitude: 86.0655
+Year: 2015 Month: May
+Deaths: 20 | Injured: 162
+Affected: 165042625 | Homeless: 33008
+Total Affected: 165042625
+Magnitude: 7.3 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Administrative unit not available districts (Jammu
+Latitude: 36.5244, Longitude: 70.3676
+Year: 2015 Month: October
+Deaths: 27 | Injured: 10
+Affected: 45 | Homeless: 201
+Total Affected: 10
+Magnitude: 7.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Kashmir province)
+Latitude: 36.5244, Longitude: 70.3676
+Year: 2015 Month: October
+Deaths: 27 | Injured: 10
+Affected: 45 | Homeless: 201
+Total Affected: 10
+Magnitude: 7.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Delhi
+Latitude: 36.5244, Longitude: 70.3676
+Year: 2015 Month: October
+Deaths: 27 | Injured: 10
+Affected: 45 | Homeless: 201
+Total Affected: 10
+Magnitude: 7.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Punjab provinces
+Latitude: 36.5244, Longitude: 70.3676
+Year: 2015 Month: October
+Deaths: 27 | Injured: 10
+Affected: 45 | Homeless: 201
+Total Affected: 10
+Magnitude: 7.5 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Guwahati city (Kamrup district
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Assam province)
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: East Imphal
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: West Imphal
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Senapati
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Thoubal
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Bishnupur
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Tamenglong districts (Manipur province)
+Latitude: 24.804, Longitude: 93.65
+Year: 2016 Month: January
+Deaths: 8 | Injured: 308
+Affected: 10500 | Homeless: 7551
+Total Affected: 10808
+Magnitude: 6.7 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Kamrup
+Latitude: 26.781, Longitude: 92.457
+Year: 2021 Month: April
+Deaths: 2 | Injured: 10
+Affected: 3000 | Homeless: 2855
+Total Affected: 3010
+Magnitude: 6.4 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: Nagaon (Sonitpur District
+Latitude: 26.781, Longitude: 92.457
+Year: 2021 Month: April
+Deaths: 2 | Injured: 10
+Affected: 3000 | Homeless: 2855
+Total Affected: 3010
+Magnitude: 6.4 Moment Magnitude
+-----------------------------
+Disaster: Earthquake (Ground movement)
+Location: northern Assam State)
+Latitude: 26.781, Longitude: 92.457
+Year: 2021 Month: April
+Deaths: 2 | Injured: 10
+Affected: 3000 | Homeless: 2855
+Total Affected: 3010
+Magnitude: 6.4 Moment Magnitude
+-----------------------------

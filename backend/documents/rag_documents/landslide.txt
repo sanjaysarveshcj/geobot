@@ -1,0 +1,549 @@
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Rudra Prayag district (Uttarakh
+Latitude: 18.460744269013706, Longitude: 81.0514909476202
+Year: 2001 Month: July
+Deaths: 27 | Injured: 112
+Affected: 150200000 | Homeless: 44806
+Total Affected: 150200000
+Magnitude: 280040.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: province)
+Latitude: 18.460744269013706, Longitude: 81.0514909476202
+Year: 2001 Month: July
+Deaths: 27 | Injured: 112
+Affected: 150200000 | Homeless: 44806
+Total Affected: 150200000
+Magnitude: 280040.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Chamba district (Himachal Pradesh province)
+Latitude: 26.144764804961643, Longitude: 81.78673936741656
+Year: 2001 Month: August
+Deaths: 16 | Injured: 96
+Affected: 100133361 | Homeless: 29079
+Total Affected: 100133361
+Magnitude: 280040.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Amboori village (Thiruvananthapuram district
+Latitude: 20.605102428766465, Longitude: 81.78116497425655
+Year: 2001 Month: November
+Deaths: 55 | Injured: 370
+Affected: 150200000 | Homeless: 15512
+Total Affected: 150200000
+Magnitude: 280040.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Kerala province)
+Latitude: 20.605102428766465, Longitude: 81.78116497425655
+Year: 2001 Month: November
+Deaths: 55 | Injured: 370
+Affected: 150200000 | Homeless: 15512
+Total Affected: 150200000
+Magnitude: 280040.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Guwahati city (Kamrup district
+Latitude: 24.151369735235992, Longitude: 80.76555347740437
+Year: 2005 Month: August
+Deaths: 12 | Injured: 20
+Affected: 56 | Homeless: 197
+Total Affected: 20
+Magnitude: 36078.75540156323 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Assam province)
+Latitude: 24.151369735235992, Longitude: 80.76555347740437
+Year: 2005 Month: August
+Deaths: 12 | Injured: 20
+Affected: 56 | Homeless: 197
+Total Affected: 20
+Magnitude: 36078.75540156323 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Administrative unit not available districts (Jammu
+Latitude: 10.76, Longitude: 78.72
+Year: 2008 Month: February
+Deaths: 37 | Injured: 18
+Affected: 30139 | Homeless: 46077
+Total Affected: 30139
+Magnitude: 144300.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Kashmir province)
+Latitude: 10.76, Longitude: 78.72
+Year: 2008 Month: February
+Deaths: 37 | Injured: 18
+Affected: 30139 | Homeless: 46077
+Total Affected: 30139
+Magnitude: 144300.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Pithoragarh district (Uttarakh
+Latitude: 21.82328914787883, Longitude: 85.67396813280948
+Year: 2009 Month: August
+Deaths: 45 | Injured: 498
+Affected: 395697 | Homeless: 346106
+Total Affected: 314950
+Magnitude: 23757.175431710097 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: province)
+Latitude: 21.82328914787883, Longitude: 85.67396813280948
+Year: 2009 Month: August
+Deaths: 45 | Injured: 498
+Affected: 395697 | Homeless: 346106
+Total Affected: 314950
+Magnitude: 23757.175431710097 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Lal
+Latitude: 25.18523071775002, Longitude: 85.91583771891499
+Year: 2009 Month: September
+Deaths: 10 | Injured: 28
+Affected: 90 | Homeless: 26851
+Total Affected: 90
+Magnitude: 15574.44191251253 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Bahadur
+Latitude: 25.18523071775002, Longitude: 85.91583771891499
+Year: 2009 Month: September
+Deaths: 10 | Injured: 28
+Affected: 90 | Homeless: 26851
+Total Affected: 90
+Magnitude: 15574.44191251253 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Shastri
+Latitude: 25.18523071775002, Longitude: 85.91583771891499
+Year: 2009 Month: September
+Deaths: 10 | Injured: 28
+Affected: 90 | Homeless: 26851
+Total Affected: 90
+Magnitude: 15574.44191251253 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Nagar slums (Mumbai Suburban district
+Latitude: 25.18523071775002, Longitude: 85.91583771891499
+Year: 2009 Month: September
+Deaths: 10 | Injured: 28
+Affected: 90 | Homeless: 26851
+Total Affected: 90
+Magnitude: 15574.44191251253 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Maharashtra province)
+Latitude: 25.18523071775002, Longitude: 85.91583771891499
+Year: 2009 Month: September
+Deaths: 10 | Injured: 28
+Affected: 90 | Homeless: 26851
+Total Affected: 90
+Magnitude: 15574.44191251253 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Malin village (Pune district
+Latitude: 21.57089322798582, Longitude: 85.91205756182772
+Year: 2014 Month: July
+Deaths: 151 | Injured: 186
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 35.52782344690219 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Maharashtra province)
+Latitude: 21.57089322798582, Longitude: 85.91205756182772
+Year: 2014 Month: July
+Deaths: 151 | Injured: 186
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 35.52782344690219 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Barpeta
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Sonitpur
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Goalpara
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Dhemaji
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Lakhimpur
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Tinsukia
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Darrang
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Nalbari
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Jorhat
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Kamrup
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Dibrugarh
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Nagaon
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Bongaigaon districts (Assam province)
+Latitude: 26.9195, Longitude: 93.87
+Year: 2015 Month: June
+Deaths: 3 | Injured: 275
+Affected: 9000 | Homeless: 6828
+Total Affected: 9000
+Magnitude: 25162.0797991756 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Uttarakh
+Latitude: 27.035258199174297, Longitude: 78.40463079427064
+Year: 2016 Month: May
+Deaths: 10 | Injured: 5
+Affected: 54 | Homeless: 200
+Total Affected: 5
+Magnitude: 6347.925966860032 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: province
+Latitude: 27.035258199174297, Longitude: 78.40463079427064
+Year: 2016 Month: May
+Deaths: 10 | Injured: 5
+Affected: 54 | Homeless: 200
+Total Affected: 5
+Magnitude: 6347.925966860032 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Laptap Village
+Latitude: 20.461572951901644, Longitude: 82.04186032067759
+Year: 2017 Month: July
+Deaths: 22 | Injured: 153
+Affected: 110004933 | Homeless: 45334
+Total Affected: 110004933
+Magnitude: 28145.13462192674 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Papumpare district (Arunachal Pradesh)
+Latitude: 20.461572951901644, Longitude: 82.04186032067759
+Year: 2017 Month: July
+Deaths: 22 | Injured: 153
+Affected: 110004933 | Homeless: 45334
+Total Affected: 110004933
+Magnitude: 28145.13462192674 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Kotropi
+Latitude: 21.91504892918636, Longitude: 85.22426185961808
+Year: 2017 Month: August
+Deaths: 46 | Injured: 70
+Affected: 90 | Homeless: 100
+Total Affected: 100
+Magnitude: 40593.43313517832 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: M
+Latitude: 21.91504892918636, Longitude: 85.22426185961808
+Year: 2017 Month: August
+Deaths: 46 | Injured: 70
+Affected: 90 | Homeless: 100
+Total Affected: 100
+Magnitude: 40593.43313517832 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: i district (Himachal Pradesh)
+Latitude: 21.91504892918636, Longitude: 85.22426185961808
+Year: 2017 Month: August
+Deaths: 46 | Injured: 70
+Affected: 90 | Homeless: 100
+Total Affected: 100
+Magnitude: 40593.43313517832 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Barak Valley Region (southern Assam State
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: north
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: east India)
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Hailak
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: i
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Cachar
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Karimganj Districts
+Latitude: 23.411272591793477, Longitude: 83.22759583147473
+Year: 2020 Month: May
+Deaths: 21 | Injured: 4815
+Affected: 155850 | Homeless: 143523
+Total Affected: 155850
+Magnitude: 57.95474424777515 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Idukki district (Kerala state)
+Latitude: 25.13855652009318, Longitude: 82.00123336425936
+Year: 2020 Month: August
+Deaths: 70 | Injured: 599
+Affected: 5000 | Homeless: 493907
+Total Affected: 5000
+Magnitude: 36757.41264604661 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Bombay
+Latitude: 23.51178310420723, Longitude: 78.47237128094068
+Year: 2021 Month: July
+Deaths: 33 | Injured: 154
+Affected: 7587 | Homeless: 5342
+Total Affected: 7587
+Magnitude: 27687.19353629309 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Nigul Sari Village (Kinnaur District
+Latitude: 26.504120194741727, Longitude: 78.78360432408904
+Year: 2021 Month: August
+Deaths: 35 | Injured: 13
+Affected: 48 | Homeless: 197
+Total Affected: 13
+Magnitude: 52.18350888642666 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Himachal Pradesh State)
+Latitude: 26.504120194741727, Longitude: 78.78360432408904
+Year: 2021 Month: August
+Deaths: 35 | Injured: 13
+Affected: 48 | Homeless: 197
+Total Affected: 13
+Magnitude: 52.18350888642666 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Tapul village (Noney District
+Latitude: 24.456369247917223, Longitude: 82.68537061158702
+Year: 2022 Month: June
+Deaths: 67 | Injured: 312
+Affected: 278855 | Homeless: 409620
+Total Affected: 278855
+Magnitude: 34879.227554000405 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Manipur State)
+Latitude: 24.456369247917223, Longitude: 82.68537061158702
+Year: 2022 Month: June
+Deaths: 67 | Injured: 312
+Affected: 278855 | Homeless: 409620
+Total Affected: 278855
+Magnitude: 34879.227554000405 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Mumbai
+Latitude: 24.456369247917223, Longitude: 82.68537061158702
+Year: 2022 Month: June
+Deaths: 67 | Injured: 312
+Affected: 278855 | Homeless: 409620
+Total Affected: 278855
+Magnitude: 34879.227554000405 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Irshalwadi Village (Raigad District
+Latitude: 20.78835914441456, Longitude: 81.65008852237631
+Year: 2023 Month: July
+Deaths: 28 | Injured: 148
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 53.99296893251523 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: western Maharashtra State)
+Latitude: 20.78835914441456, Longitude: 81.65008852237631
+Year: 2023 Month: July
+Deaths: 28 | Injured: 148
+Affected: 200 | Homeless: 200
+Total Affected: 200
+Magnitude: 53.99296893251523 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Himachal Pradesh
+Latitude: 22.66266956432171, Longitude: 82.87200857845576
+Year: 2023 Month: August
+Deaths: 10 | Injured: 416
+Affected: 605 | Homeless: 402
+Total Affected: 605
+Magnitude: 53.09045041038202 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Uttarakh
+Latitude: 22.66266956432171, Longitude: 82.87200857845576
+Year: 2023 Month: August
+Deaths: 10 | Injured: 416
+Affected: 605 | Homeless: 402
+Total Affected: 605
+Magnitude: 53.09045041038202 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: states
+Latitude: 22.66266956432171, Longitude: 82.87200857845576
+Year: 2023 Month: August
+Deaths: 10 | Injured: 416
+Affected: 605 | Homeless: 402
+Total Affected: 605
+Magnitude: 53.09045041038202 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Mizoram State
+Latitude: 23.73539726677431, Longitude: 77.95320751804731
+Year: 2023 Month: August
+Deaths: 26 | Injured: 2
+Affected: 48 | Homeless: 200
+Total Affected: 2
+Magnitude: 49.30934852074884 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Dipu Dara village (Singtam municipality
+Latitude: 24.470471202531208, Longitude: 78.56466554056789
+Year: 2024 Month: August
+Deaths: 10 | Injured: 85
+Affected: 90 | Homeless: 174
+Total Affected: 90
+Magnitude: 65.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Gangtok district
+Latitude: 24.470471202531208, Longitude: 78.56466554056789
+Year: 2024 Month: August
+Deaths: 10 | Injured: 85
+Affected: 90 | Homeless: 174
+Total Affected: 90
+Magnitude: 65.0 nan
+-----------------------------
+Disaster: Mass movement (wet) (Landslide (wet))
+Location: Sikkim state)
+Latitude: 24.470471202531208, Longitude: 78.56466554056789
+Year: 2024 Month: August
+Deaths: 10 | Injured: 85
+Affected: 90 | Homeless: 174
+Total Affected: 90
+Magnitude: 65.0 nan
+-----------------------------

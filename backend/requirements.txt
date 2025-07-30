@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+chromadb
+langchain
+langgraph
+openai
+python-dotenv
+torch
+transformers
+sentence-transformers
+fastapi
+uvicorn
+geopandas
+rasterio
+whitebox
+pydantic
+PyYAML
