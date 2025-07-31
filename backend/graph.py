@@ -1,18 +1,17 @@
-
-
 from langgraph.graph import StateGraph, END
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from chromadb.api.types import EmbeddingFunction
 from langchain_tavily import TavilySearch
 from dotenv import load_dotenv
 import chromadb
 import os
-from typing import TypedDict, Optional
+from typing import TypedDict
 import json
 import re
 
 load_dotenv()
 
-# Configuration
 CONFIG = {
     "max_results": 10,
     "max_doc_chars": 2000,
@@ -20,43 +19,62 @@ CONFIG = {
     "temperature": 0.2
 }
 
-# Initialize LLM
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-pro",
     temperature=CONFIG["temperature"],
     google_api_key=os.getenv("GOOGLE_API_KEY")
 )
 
-# Initialize ChromaDB
+
+embeddings = GoogleGenerativeAIEmbeddings(
+    model="models/embedding-001",
+    google_api_key=os.getenv("GOOGLE_API_KEY")
+)
+
+
+class LangChainEmbeddingWrapper(EmbeddingFunction):
+    def __init__(self, embeddings):
+        self.embeddings = embeddings
+
+    def __call__(self, texts):
+        return self.embeddings.embed_documents(list(texts))
+
+embedding_fn = LangChainEmbeddingWrapper(embeddings)
+
 try:
     client = chromadb.PersistentClient(path="./chroma_db")
     collections = {
-        "flood": client.get_or_create_collection("flood_knowledge"),
-        "earthquake": client.get_or_create_collection("earthquake_knowledge"),
-        "landslide": client.get_or_create_collection("landslide_knowledge")
+        "flood": client.get_or_create_collection(
+            "flood_knowledge", embedding_function=embedding_fn
+        ),
+        "earthquake": client.get_or_create_collection(
+            "earthquake_knowledge", embedding_function=embedding_fn
+        ),
+        "landslide": client.get_or_create_collection(
+            "landslide_knowledge", embedding_function=embedding_fn
+        ),
     }
     print("[INFO] ChromaDB collections initialized successfully.")
 except Exception as e:
     print(f"[ERROR] Failed to initialize ChromaDB: {e}")
     collections = {}
 
-# Define state structure
+
+
 class DisasterState(TypedDict):
     query: str
     response: str
     locations: list
 
-# Utility function for safe JSON parsing
 def safe_json_parse(text: str) -> list:
     """Safely parse JSON from LLM response with fallback strategies."""
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         print("Initial JSON parse failed. Trying to extract JSON array...")
-        # Try to find JSON array pattern
         json_patterns = [
-            r'\[[\s\S]*?\]',  # Match [ ... ]
-            r'\[.*?\]'        # Simple bracket match
+            r'\[[\s\S]*?\]', 
+            r'\[.*?\]'   
         ]
         
         for pattern in json_patterns:
@@ -72,7 +90,6 @@ def safe_json_parse(text: str) -> list:
         print("All JSON parsing attempts failed. Returning empty list.")
         return []
 
-# Load disaster-specific documents
 def load_documents():
     """Load disaster documents into ChromaDB collections."""
     if not collections:
@@ -86,17 +103,24 @@ def load_documents():
         return
     
     for dtype in ["flood", "earthquake", "landslide"]:
+        collection = collections[dtype]
+        if collection.count() > 0:
+            print(f"{dtype} collection already populated, skipping.")
+            continue
         path = os.path.join(base_path, f"{dtype}.txt")
         try:
             if os.path.exists(path):
                 with open(path, "r", encoding="utf-8") as file:
                     content = file.read()
                     if content.strip():
-                        collections[dtype].add(
-                            documents=[content],
-                            ids=[dtype]
-                        )
-                        print(f"[INFO] Loaded {dtype}.txt successfully.")
+                        try:
+                            docs = [content]
+                            collections[dtype].add(
+                                documents=docs,
+                                ids=[dtype]
+                            )
+                        except Exception as e:
+                            print(f"[WARNING] Could not load {dtype}.txt: {e}")
                     else:
                         print(f"[WARNING] {dtype}.txt is empty.")
             else:
@@ -104,10 +128,8 @@ def load_documents():
         except Exception as e:
             print(f"[ERROR] Could not load {dtype}.txt: {e}")
 
-# Load documents on startup
 load_documents()
 
-# LLM-powered router
 def llm_router(llm, query: str) -> str:
     """Route query to appropriate agent based on content."""
     routing_prompt = f"""
@@ -142,7 +164,6 @@ Return ONLY: flood_agent | earthquake_agent | landslide_agent | fallback
         print(f"[ERROR] Router LLM call failed: {e}")
         return "fallback"
 
-# Routing key function for conditional edges
 def routing_key(state: DisasterState) -> str:
     """Determine routing key for conditional edges."""
         
@@ -156,12 +177,10 @@ def routing_key(state: DisasterState) -> str:
     }
     return agent_name if agent_name in valid_agents else "fallback"
 
-# Router node function
 def router_node(state: DisasterState):
     """Router node - passes state through unchanged."""
     return state
 
-# Disaster agent implementations
 def flood_agent(state: DisasterState):
     """Handle flood-related queries."""
     return _disaster_agent(
@@ -193,18 +212,15 @@ def _disaster_agent(state: DisasterState, dtype: str, prompt_header: str):
     
     query = state["query"]
     
-    # Check if collection exists
     if dtype not in collections:
         return {**state, "response": f"No knowledge base available for {dtype}.", "locations": []}
     
     collection = collections[dtype]
     
     try:
-        # Query the knowledge base
         results = collection.query(query_texts=[query], n_results=CONFIG["max_results"])
         docs = results["documents"][0] if results["documents"] else []
         
-        # Build context from documents
         context = ""
         current_len = 0
         for doc in docs:
@@ -217,7 +233,6 @@ def _disaster_agent(state: DisasterState, dtype: str, prompt_header: str):
                     context += doc[:min(remaining, CONFIG["max_doc_chars"])]
                 break
         
-        # Generate response
         response_prompt = f"""You are a {dtype} expert. Answer the question with specific factual details about the {dtype} events mentioned.
 
 {context}
@@ -231,7 +246,6 @@ Note :
 Provide only the essential facts: dates, locations, casualties, affected populations, and basic technical details. Focus solely on what happened, when, and where. Keep the response brief and factual."""
         response = llm.invoke(response_prompt).content.strip()
         
-        # Extract locations
         location_prompt = f"""
 Based on the context below, extract all relevant affected locations mentioned.
 
@@ -257,7 +271,6 @@ Return only a JSON array like this and no extra text:
         
         locations = safe_json_parse(locs_raw)
         
-        # Enrich locations with color coding
         enriched = []
         for loc in locations:
             if not isinstance(loc, dict):
@@ -309,11 +322,9 @@ def fallback(state: DisasterState):
                 "response": "I can help with flood, earthquake, and landslide questions. For other topics, please configure Tavily API key."
             }
         
-        # Use TavilySearch directly
         tool = TavilySearch(max_results=2, tavily_api_key=tavily_api_key)
         search_results = tool.invoke({"query": state["query"]})
         
-        # Format the results into a response
         if search_results:
             response = llm.invoke(f"""
 You are a knowledgeable assistant with expertise across various domains. Answer the following question naturally and confidently as if drawing from your own knowledge and understanding.
@@ -352,19 +363,16 @@ Answer:
         }
 
 
-# Build the LangGraph disaster workflow
 def build_disaster_graph():
     """Build and compile the disaster response graph."""
     graph = StateGraph(DisasterState)
     
-    # Add node functions
     graph.add_node("router", router_node)
     graph.add_node("flood_agent", flood_agent)
     graph.add_node("earthquake_agent", earthquake_agent)
     graph.add_node("landslide_agent", landslide_agent)
     graph.add_node("fallback", fallback)
     
-    # Set entry point and conditional edges
     graph.set_entry_point("router")
     graph.add_conditional_edges(
         "router", routing_key, {
@@ -375,7 +383,6 @@ def build_disaster_graph():
         }
     )
     
-    # All agent nodes end after response
     graph.add_edge("flood_agent", END)
     graph.add_edge("earthquake_agent", END)
     graph.add_edge("landslide_agent", END)
