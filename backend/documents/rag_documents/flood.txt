@@ -1,4 +1,4 @@
-Disaster: Flood (Riverine flood)
+D+isaster: Flood (Riverine flood)
 Location: Barpeta
 Latitude: 23.91651512150974, Longitude: 91.22252489569443
 Year: 2002 Month: June
