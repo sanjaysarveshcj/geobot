@@ -18,14 +18,78 @@ const DisasterChat = ({ setDisasterData }) => {
     scrollToBottom();
   }, [messages]);
 
-  const formatMarkdownToHTML = (text) => {
-    text = text.replace(/#[^\s*]+/g, ""); // remove hashtags
-    const points = text
-      .split(/\s*\*\s+/)
-      .map(pt => pt.replace(/\*{1,3}/g, "").trim())
-      .filter(pt => pt.length > 0);
-    return `<ul class="list-disc pl-5 space-y-1">${points.map(p => `<li>${p}</li>`).join("")}</ul>`;
-  };
+ const formatMarkdownToHTML = (text) => {
+  if (!text || typeof text !== 'string') return '';
+  
+  // Clean the text
+  let formatted = text.trim();
+  
+  // Remove hashtags at the beginning of lines
+  formatted = formatted.replace(/^#[^\s*]+/gm, "");
+  
+  // Handle **bold** text
+  formatted = formatted.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  
+  // Handle *italic* text (but not bullet points)
+  formatted = formatted.replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, '<em>$1</em>');
+  
+  // Split into paragraphs and process each
+  const paragraphs = formatted.split(/\n\s*\n/);
+  
+  return paragraphs.map(paragraph => {
+    paragraph = paragraph.trim();
+    if (!paragraph) return '';
+    
+    // Check if this paragraph contains bullet points
+    if (paragraph.includes('* ')) {
+      // Extract bullet points
+      const lines = paragraph.split('\n');
+      const bulletPoints = [];
+      let currentText = '';
+      
+      lines.forEach(line => {
+        line = line.trim();
+        if (line.startsWith('* ')) {
+          // This is a bullet point
+          if (currentText) {
+            // Add any preceding text as a paragraph
+            bulletPoints.push(`<p class="mb-3">${currentText}</p>`);
+            currentText = '';
+          }
+          bulletPoints.push(`<li>${line.substring(2).trim()}</li>`);
+        } else if (line) {
+          // This is regular text
+          currentText += (currentText ? ' ' : '') + line;
+        }
+      });
+      
+      // Add any remaining text
+      if (currentText) {
+        bulletPoints.unshift(`<p class="mb-3">${currentText}</p>`);
+      }
+      
+      // Check if we have actual list items
+      const listItems = bulletPoints.filter(item => item.startsWith('<li>'));
+      const textContent = bulletPoints.filter(item => item.startsWith('<p>'));
+      
+      if (listItems.length > 0) {
+        return textContent.join('') + 
+               `<ul class="list-disc pl-5 space-y-2 mb-4">${listItems.join('')}</ul>`;
+      } else {
+        return textContent.join('');
+      }
+    } else {
+      // Regular paragraph - check for special formatting
+      if (paragraph.includes('**') || paragraph.includes('*')) {
+        // Already processed bold/italic above
+        return `<p class="mb-3">${paragraph}</p>`;
+      } else {
+        return `<p class="mb-3">${paragraph}</p>`;
+      }
+    }
+  }).join('');
+};
+
 
   const sendMessage = async () => {
     if (!input.trim()) return;
@@ -39,10 +103,10 @@ const DisasterChat = ({ setDisasterData }) => {
       const response = await axios.post("http://localhost:8000/ask", {
         query: input
       });
-
+      
       const aiReply = response.data.response || "No response from AI.";
       const htmlFormatted = formatMarkdownToHTML(aiReply);
-
+      console.log("AI Response:", aiReply);
       setMessages([
         ...newMessages,
         { role: "ai", content: htmlFormatted, isHTML: true }

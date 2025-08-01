@@ -50,22 +50,15 @@ const DisasterMap = ({ disasterData }) => {
   const defaultCenter = [23.5, 80.5];
 
   // ✅ Default fallback data
-  const defaultData = [
-    {
-      name: "Bangalore",
-      latitude: 12.9716,
-      longitude: 77.5946,
-      total_affected: 50000,
-      color: "orange",
-    },
-    {
-      name: "Hyderabad",
-      latitude: 17.385,
-      longitude: 78.4867,
-      total_affected: 30000,
-      color: "yellow",
-    },
-  ];
+const defaultData = [
+  {
+    name: "Chennai",
+    latitude: 13.0827,
+    longitude: 80.2707,
+    total_affected: 0,
+    color: "green",
+  }
+];
 
   // ✅ Use real data if valid
   const activeData =
